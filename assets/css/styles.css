@@ -44,6 +44,14 @@ h4 sup {
   font-size: 10px;
   vertical-align: middle;
 }
+.nav-tabs .nav-item a {
+  color: gray;
+  text-decoration: none;
+}
+
+.nav-tabs .nav-item a:hover {
+  text-decoration: none;
+}
 
 .exp.col-xs-12.col-md-4 a {
   text-decoration: underline;
@@ -69,15 +77,6 @@ h4 sup {
   position: relative;
   left: 0;
   bottom: 0;
-}
-
-.nav-tabs .nav-item a {
-  color: gray;
-  text-decoration: none;
-}
-
-.nav-tabs .nav-item a:hover {
-  text-decoration: none;
 }
 
 @media (max-width: 576px) {
