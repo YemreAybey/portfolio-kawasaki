@@ -1,0 +1,138 @@
+body {
+  background: linear-gradient(135deg, rgba(56,60,61,1) 7%, rgba(1,1,1,1) 74%, rgba(6,6,6,0.9920343137254902) 100%);
+  color: #fff !important;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+.img {
+  width:650px;
+  height:407px
+}
+.moto {
+  height:407px;
+  display: flex;
+  align-items: center;
+}
+.container {
+  margin-top: 50px;
+}
+footer {
+  margin-top: 8px;
+}
+.navbar-light .navbar-toggler {
+  border-color: #fff;
+}
+
+.fa.fa-circle-o {
+  color: rgb(77,201,77);
+}
+
+.fa.fa-circle {
+  color: rgb(80,201,80);
+}
+
+.exp.col-xs-12.col-md-4 {
+  padding: 4rem 1rem 1rem 1rem;
+  margin-left: -3rem;
+}
+
+h4 sup {
+  font-size: 10px;
+  vertical-align: middle;
+}
+
+exp col-xs-12 col-md-4 a {
+  text-decoration: underline;
+}
+
+exp col-xs-12 col-md-4 a {
+  text-decoration: underline;
+}
+
+exp col-xs-12 col-md-4 a {
+  text-decoration: underline;
+}
+
+exp col-xs-12 col-md-4 a:hover {
+  text-decoration: none;
+}
+
+@media (min-width: 0px) {
+  .exp.col-xs-12.col-md-4 {
+    margin-left: 0;
+  }
+}
+@media (min-width: 768px) and (max-width: 992px){
+  .img {
+     width:500px;
+     height:300px;
+  }
+}
+
+.navbar.navbar-light.navbar-expand-md {
+  position: relative;
+  left: 0;
+  bottom: 0;
+}
+
+.nav-tabs .nav-item a {
+  color: gray;
+  text-decoration: none;
+}
+
+.nav-tabs .nav-item a {
+  color: gray;
+  text-decoration: none;
+}
+
+.nav-tabs .nav-item a:hover {
+  text-decoration: none;
+}
+
+@media (max-width: 576px) {
+  footer.d-flex.align-items-center.justify-content-between {
+    display: block !important;
+  }
+}
+
+@media (max-width: 576px) {
+  .nav.nav-tabs.ml-auto.paginate {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}
+
+@media (max-width: 576px) {
+  .nav.nav-tabs.footer-nav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}
+
+@media (max-width: 575px) {
+  .img {
+    width: 330px;
+    height: 200px;
+  }
+
+   .exp {
+    margin-top: -130px;;
+  }
+}
+
+@media (min-width: 576px) and (max-width: 768px) {
+  .img {
+    width: 500px;
+    height: 300px;
+  }
+  .exp {
+    border: 1px solid #4dc94d;
+    margin-top: -30px;;
+  }
+}
+
+.nav.nav-tabs {
+  border: none;
+}
+
