@@ -42,7 +42,7 @@ $ git clone https://github.com/YemreAybey/portfolio-kawasaki.git
 
 > cd into the directory
 
-> Open `index.html` file using your favourite broswer, if it doesn't open automatically.
+> Open `index.html` file using your favourite broswer.
 
 ## Authors
 
